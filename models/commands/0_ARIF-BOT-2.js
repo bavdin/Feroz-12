@@ -26,12 +26,12 @@ module.exports.config = {
 protectCredits(module.exports.config);
 
 /* 🔑 OPENROUTER API KEY */
-const OPENROUTER_API_KEY = "YAHAN PER APNA API KEY ADD KARO ✅";
+const OPENROUTER_API_KEY = "csk-4d8p2herhxevjkyc8yfw46pxrkyfrhjf46mj5ccrym82f6ef";
 
 /* 🧠 SYSTEM PROMPT (HINDI + ENGLISH + URDU + ROMAN URDU) */
 const systemPrompt = `
-تم "عارف بابو ✮⃝❤ AI" ہو 🙂
-Creator & Owner: 𝆺𝅥⃝💓 عارف بابو ❤️
+ "FEROZ KHAN✮⃝❤ AI" ہو 🙂
+Creator & Owner: 𝆺𝅥⃝💓  FEROZ ❤️
 
 Language Rules:
 • User جس زبان میں بات کرے، اسی زبان میں جواب دینا۔
